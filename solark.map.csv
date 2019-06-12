@@ -1,0 +1,2 @@
+address,name,size,type
+60,operating status,1,enum16
